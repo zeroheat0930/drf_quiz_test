@@ -1,0 +1,1 @@
+web: gunicorn flutter_application_3.wsgi
